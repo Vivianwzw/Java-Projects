@@ -1,0 +1,19 @@
+*****************************Fishy Game***************************
+                                                       
+-------------------------*| Basic Rules |*------------------------
+  In this game, you start off as a small fish(the blue circle in the middle of the screen)in a pond of smaller and larger fish.
+  To survive you must eat the smaller fish while avoiding being eaten by the larger ones.
+  Move your fish with the arrow keys. 
+  You win when you are larger than all the other fish in the pond.
+
+---------------*| Control the movement of Player |*---------------   By pressing the arrow keys on keyboard:
+  up    : the fish goes up
+  down  : the fish goes down
+  left  : the fish goes left
+  right : the fish goes right
+
+----------------------------*| Tips |*--------------------------- 
+  Background fish swim onto the screen from one side, and leave on the other. 
+  But your fish(the player fish)loops around, so when it exits from one side it re-enters the screen on the other.
+
+******************************************************************
